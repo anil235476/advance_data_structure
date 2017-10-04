@@ -1,1 +1,2 @@
 1) understand array_view implementation
+http://google.github.io/styleguide/cppguide.html#Integer_Types
